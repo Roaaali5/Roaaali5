@@ -67,7 +67,9 @@
 ---
 
 <div align="center">
-  <img src="https://i.imgur.com/Rv8wD9z.gif" width="220px" alt="Girl Coding" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" 
+     width="220px" 
+     alt="Girl Coding" />
   <h3>Thank you for visiting 💕</h3>
   <p>“Code with passion, design with love.”</p>
 </div>
