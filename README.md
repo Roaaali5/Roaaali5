@@ -1,12 +1,12 @@
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/4409ca66-952e-4364-beee-ec886b4051a7" /><!-- 💕 Roaa Ali | Web Developer Profile 💕 -->
+<!-- 💕 Roaa Ali | Web Developer Profile 💕 -->
 
 <div align="center">
-  <img src=" <img width="1536" height="1024" alt="ChatGPT Image 8 أكتوبر 2025، 07_28_58 م" src="https://github.com/user-attachments/assets/dec1443a-71ab-4c09-804f-5e5d91706fbb" />
-" width="100%" alt="Banner" />
+  <!-- Banner Image -->
+  <img src="https://github.com/user-attachments/assets/dec1443a-71ab-4c09-804f-5e5d91706fbb" width="100%" alt="Banner" />
 </div>
 
 <h1 align="center">Hi there 💖 I'm Roaa Ali</h1>
-<h3 align="center">👩‍💻 Web Developer | Software Engineer | Creative Thinker</h3>
+<h3 align="center">👩‍💻 Computer Systems Engineering | Web Developer | Creative Thinker</h3>
 
 ---
 
@@ -14,7 +14,7 @@
 ✨ I'm a passionate **Web Developer** who loves creating elegant, modern, and user-friendly web apps.  
 🎯 I enjoy turning creative ideas into real digital experiences.  
 💻 Skilled in **C++, Java, HTML, CSS, JavaScript**, and always learning more!  
-🌱 Currently exploring **Full Stack Development** and UI/UX design.  
+🌱 Currently exploring **Back End** .  
 💬 I believe code can be both **powerful and beautiful**.  
 
 ---
@@ -49,7 +49,7 @@
 
 ## 💌 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com" target="_blank">
+  <a href="http://linkedin.com/in/roaa-ali-456371360" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:your.email@example.com" target="_blank">
