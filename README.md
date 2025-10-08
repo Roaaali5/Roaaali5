@@ -52,7 +52,7 @@
   <a href="http://linkedin.com/in/roaa-ali-456371360" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="aliroaa597@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-ffb6c1?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
